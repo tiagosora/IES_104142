@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="240e2525-f23c-4330-8fb0-f268a9fd7d6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_1/src/main/java/MyFirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/src/main/java/com/javacodegeeks/example/EmbeddedJettyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_2/EmbeddedJettyExample/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/src/main/java/com/tiagosora/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/demo/src/test/java/com/tiagosora/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/rest-service/src/main/java/com/example/restservice/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/rest-service/src/main/java/com/example/restservice/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/serving-web-content/src/main/java/com/example/servingwebcontent/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_3/serving-web-content/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_1/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2G0GxJ64vpDbGvXTqnPGM4Namgr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/tiagos/Desktop/3 Ano/IES/IES_104142/lab2/lab2_4/movies",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MoviesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="movies" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tiagosora.movies.MoviesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240e2525-f23c-4330-8fb0-f268a9fd7d6d" name="Changes" comment="" />
+      <created>1665518332510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665518332510</updated>
+      <workItem from="1665518333602" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
