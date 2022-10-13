@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="EmbeddedJettyExample" options="-endorseddirs &quot;/home/tiagos/Desktop/3 Ano/IES/IES_104142/lab2/EmbeddedJettyExample/target/endorsed&quot;" />
+      <module name="EmbeddedJettyExample" options="-endorseddirs &quot;$PROJECT_DIR$/target/endorsed&quot;" />
     </option>
   </component>
 </project>

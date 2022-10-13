@@ -1,8 +1,8 @@
-# Lab 1 - 104142
+# Lab 2 - 104142
 
-IES - Practical Classes - 22/23 - **Lab 1** - **P5** - **Tiago Carvalho** - **104142**
+IES - Practical Classes - 22/23 - **Lab 2** - **P5** - **Tiago Carvalho** - **104142**
 
-# 
+
 
 ## What's Maven?
 
