@@ -31,13 +31,17 @@ The data is being saved in a (non-persistent) local database.
 
 The `"not empty"` rule is defined on the User entity class.
 
----
+#
 
 # **Using Postman**
 
+Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs. The platform is cloud-native and includes the comprehensive suite of features enterprises are looking for, including SSO, audit, platform security, and much more. Postman can store and manage API specifications, documentation, workflow recipes, test cases and results, metrics, and everything else related to APIs.
 
+Also, consult the print screens taken for the exercise 3 from the pratical guide in [here](https://github.com/tiagosora/IES_104142/tree/master/lab3/PostmanScreenshots). 
 
----
+For more information, consult [postman tutorials](https://www.postman.com/).
+
+#
 
 # **Review Questions**
 
