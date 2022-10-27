@@ -85,7 +85,7 @@ public class MoviesController{
         return moviesService.createMovie(movie);
     }
 
-    @PutMapping("/movies/{id}") //Movie resource is updated
+    @PutMapping("/movies/{id}")
     public ResponseEntity<Movie> updateMovie(@PathVariable(value = "id") Long movieId, @Valid @RequestBody Movie movieDetails) throws ResourceNotFoundException {
         Movie movie = moviesService.getMovieById(movieId);
         movie.setTitle(movieDetails.getTitle());
@@ -93,7 +93,7 @@ public class MoviesController{
         return ResponseEntity.ok(updatedMovie);
     }
 
-    @DeleteMapping("/movies/{id}") //Movie resource is deleted
+    @DeleteMapping("/movies/{id}")
     public Map<String, Boolean> deleteMovie(@PathVariable(value = "id") Long movieId) throws ResourceNotFoundException {
         moviesService.getMovieById(movieId);
         moviesService.deleteMovie(movieId);

@@ -80,7 +80,7 @@ public class MoviesService {
     }
 
     public void deleteMovie(Long movieId) {
-        quoteRepository.deleteById(movieId);
+        movieRepository.deleteById(movieId);
     }
 
 }
