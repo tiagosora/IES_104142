@@ -77,12 +77,6 @@ For more information on POM, check [maven.apache.org](https://maven.apache.org/g
 
 ---
 
-## Docker
-
-dwdwd
-
-----
-
 ## Review questions
 
 ### **A) Maven has three life cycles: clean, site and default. Explain the main phases in the default life cycle.**
